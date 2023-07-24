@@ -1,7 +1,7 @@
 # lilypiano
 Piano sheet music created with lilypond.
 
-## :colombia: #1 ++ Malvaloca by Luis Antonio Calvo ![difficulty](https://img.shields.io/badge/difficulty-★★★☆☆-brightgreen)
+## #1 :colombia: Malvaloca by Luis Antonio Calvo ![difficulty](https://img.shields.io/badge/difficulty-★★★☆☆-brightgreen)
 
 Read about the composer [![de](https://img.shields.io/badge/wikpedia-de-gold.svg)](https://de.wikipedia.org/wiki/Luis_Calvo) [![es](https://img.shields.io/badge/wikpedia-es-red.svg)](https://es.wikipedia.org/wiki/Luis_Antonio_Calvo)
 
